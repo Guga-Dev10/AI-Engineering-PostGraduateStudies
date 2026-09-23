@@ -1,0 +1,29 @@
+{
+  "name": "ai-engineering-postgraduatestudies",
+  "version": "1.0.0",
+  "description": "Repositório de estudos, exercícios e projetos práticos da Pós-Graduação em **Engenharia de Software em IA Aplicada** pela UNIPDS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guga-Dev10/AI-Engineering-PostGraduateStudies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guga-Dev10/AI-Engineering-PostGraduateStudies/issues"
+  },
+  "homepage": "https://github.com/Guga-Dev10/AI-Engineering-PostGraduateStudies#readme",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0"
+  }
+}
