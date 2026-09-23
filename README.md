@@ -23,7 +23,7 @@ Formação prática voltada para desenvolvedores que querem aplicar Inteligênci
 5. **Ferramentas de IA para UX & UI**
    AI-driven UX/UI, geração de wireframes e UI a partir de linguagem natural (Text-to-UI), Firebase Studio (Figma → código), agentes de codificação e Gemini CLI, automação de testes E2E com MCP, e integração de lógica de IA no cliente/servidor com Firebase AI Logic.
 
-6. **Ferramentas de IA para DevOps*
+6. **Ferramentas de IA para DevOps**
    IA generativa aplicada a infraestrutura: IaC Copilot (Terraform, Pulumi, Helm, Policy-as-Code), agentes para Kubernetes (deploy, autoscaling, GitOps), troubleshooting assistido (ReAct, RCA), AIOps e observabilidade (PromQL/LogQL, detecção de anomalias), ChatOps com aprovação humana, segurança e compliance (Snyk, Trivy, Checkov), CI/CD Copilot, FinOps, RAG de runbooks/post-mortem, auto-remediação com guardrails e projeto integrador.
 
 7. **Ferramentas de IA para Gestão de Projetos**
