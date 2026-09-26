@@ -48,17 +48,19 @@ Formação prática voltada para desenvolvedores que querem aplicar Inteligênci
 
 ```
 ├── modulo-01-fundamentos-ia-llms/
-├── modulo-02-apis-ia-generativa-prompt-engineering/
-├── modulo-03-mcp/
-├── modulo-04-agentes-autonomos/
-├── modulo-05-ia-ux-ui/
-├── modulo-06-ia-devops/
-├── modulo-07-ia-gestao-projetos/
-├── modulo-08-arquitetura-sistemas-ia/
-├── modulo-09-fine-tuning/
-├── modulo-10-seguranca-governanca-ia/
-├── modulo-11-capstone-project/
-└── modulo-12-carreira-entrevistas/
+├── .env
+├── .gitignore
+├── package.json
+├── tsconfig.json
+└── README.md
 ```
 
-Cada pasta reúne anotações, exercícios e projetos práticos referentes ao módulo correspondente.
+Cada pasta `modulo-XX-*` reúne anotações, exercícios e projetos práticos referentes ao módulo correspondente. Novas pastas serão adicionadas conforme o avanço no curso.
+
+## Configuração
+
+```bash
+npm install
+```
+
+Preencha as variáveis de ambiente no arquivo `.env` (ignorado pelo Git) com suas chaves de API.
